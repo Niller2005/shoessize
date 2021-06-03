@@ -1,0 +1,2 @@
+App: https://shoessize.vercel.app/
+Github: https://github.com/Niller2005/shoessize
